@@ -1,0 +1,21 @@
+i.fas {
+  font-size: 3rem;
+}
+
+/* h1.city-name {
+  font-size: 1rem;
+} */
+
+div.weather-info {
+  align-items: flex-end;
+  /* background-color: aliceblue; */
+}
+
+p {
+  font-size: 1.5rem;
+}
+
+div.daily-temp_block {
+  padding: 4rem 0.5rem;
+  justify-content: space-between;
+}
