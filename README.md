@@ -2,8 +2,8 @@
 
 
 ### Weather app without the backend.
-### This was an experimment using media queries to build rsponsive web-pages.
-### Media queries are the best when you want to build really good looking and responsive websites.
+### This was an experiment using media queries to build responsive web pages.
+### Media queries are the best when you want to build really good-looking and responsive
 
 #### This is the screenshot on devices with larger screens 900 pixels and up.
 ![image](https://user-images.githubusercontent.com/64991182/183300158-828a58cb-e83a-4e41-9792-55c85ec1d7ef.png)
